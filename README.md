@@ -1,1 +1,2 @@
 # ICS2O-Unit2-04-Go-User_Input_Math
+[![GitHub's Super Linter](https://github.com/Ryan-Shaw-2/ICS2O-Unit2-04-Go-User_Input_Math/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Ryan-Shaw-2/ICS2O-Unit2-04-Go-User_Input_Math/actions)
