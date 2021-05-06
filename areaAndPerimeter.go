@@ -27,6 +27,6 @@ func main() {
 
 	// output
 	fmt.Println("The area is: ", area, " cm²")
-	fmt.Println("The perimter is: ", perimeter, " cm")
+	fmt.Println("The perimeter is: ", perimeter, " cm")
 
 }
